@@ -1,0 +1,17 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+augly = "0.1.1"
+python-magic = "0.4.22"
+jupyterlab = "3.0.16"
+
+[dev-packages]
+
+[requires]
+python_version = "3.7"
+
+[scripts]
+notebook = "jupyter lab"
