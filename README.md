@@ -29,9 +29,9 @@ $pipenv install
 $pipenv run notebook
 ```
 
-A sample audmentation to the Image runs through [this nodebook (image_example.ipynb)](./image_example.ipynb).
+A sample augmentation to the Image runs through [this nodebook (image_example.ipynb)](./image_example.ipynb).
 
-A sample audmentation to the Audio runs through [this nodebook (audio_example.ipynb)](./audio_example.ipynb).
+A sample augmentation to the Audio runs through [this nodebook (audio_example.ipynb)](./audio_example.ipynb).
 
 ## Author
 
